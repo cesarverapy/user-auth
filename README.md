@@ -1,1 +1,1 @@
-auth project
+user authentication demo
